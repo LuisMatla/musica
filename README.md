@@ -40,22 +40,6 @@ El programa implementa un reproductor de melodías con las siguientes caracterí
 
 ## 🛠️ Materiales Necesarios
 
-### Componentes Electrónicos
-
-- 🔹 **1x Microcontrolador PIC16F877A**
-- 🔹 **1x Cristal oscilador 4MHz** (o según configuración)
-- 🔹 **2x Capacitores cerámicos 22pF** (para el cristal)
-- 🔹 **1x Resistencia pull-up 10kΩ** (para MCLR)
-- 🔹 **1x Pulsador** (push button) para RB0
-- 🔹 **1x Resistencia pull-up 10kΩ** (para el pulsador)
-- 🔹 **1x Altavoz o Buzzer piezoeléctrico** (8Ω - 32Ω)
-- 🔹 **1x Transistor NPN** (2N2222 o similar) para amplificar la señal del altavoz (opcional)
-- 🔹 **1x Resistencia 1kΩ** (para el transistor, si se usa)
-- 🔹 **1x Capacitor electrolítico 100µF** (filtro de alimentación)
-- 🔹 **1x Capacitor cerámico 0.1µF** (desacoplamiento)
-- 🔹 **Fuente de alimentación 5V DC** o regulador 7805
-- 🔹 **Cables dupont o protoboard** para conexiones
-
 ### Herramientas y Software
 
 - 💻 **MPLAB X IDE** o **MPLAB IDE**
