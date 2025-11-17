@@ -290,9 +290,9 @@ El sistema está funcionando correctamente, reproduciendo la melodía principal 
 
 ## 👨‍💻 Autores
 
-**Luis Fernando Contreras Matla (S21020225).**
+**Luis Fernando Contreras Matla.**
 
-**Samuel Obed García Velandia (S21002413).**
+**Samuel Obed García Velandia.**
 
 ## 📚 Información Académica
 
