@@ -1,5 +1,3 @@
-;Contreras Matla Luis Fernando (S21020225).
-;García Velandia Samuel Obed (S21002413).
 ;Practica 10. Generador de melodías.
 
 __CONFIG _WDT_OFF & _PWRTE_ON & _XT_OSC & _LVP_OFF & _CP_OFF ;configura los fusibles del microcontrolador.
